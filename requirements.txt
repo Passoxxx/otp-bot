@@ -1,0 +1,8 @@
+python-telegram-bot>=20.7
+twilio>=8.0.0
+Flask>=2.0.0
+requests>=2.31.0
+edge-tts>=6.1.9
+gtts>=2.4.0
+pydub>=0.25.1
+simpleaudio>=1.0.4
